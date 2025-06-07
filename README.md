@@ -1,1 +1,1 @@
-# NLP_Projects-Movies_Review_App
+# NLP_Projects
